@@ -1,4 +1,4 @@
-E-Commerce Sales Performance Platform
+# E-Commerce Sales Performance Platform
 
 ## Project Overview
 This project is a comprehensive sales analysis solution created to track 340M in revenue across global markets. By transforming over 14,000 rows of raw data into an interactive visual interface, this dashboard allows users to filter by Month, Country, Year, and Category to find instant business insights.
