@@ -16,3 +16,8 @@ This project is a dynamic sales analysis platform built to track ₹340M in reve
 * **Data Modeling**: Built a star schema using Power Pivot to connect Fact and Dimension tables.
 * **DAX Measures**: Created custom calculations for total sales and dynamic text-based performance indicators.
 * **Interactive Controls**: Integrated synchronized slicers for Year, Month, Country, and Category to ensure a seamless user experience.
+
+  ## How to use
+* **1** Download the file.
+* **2** Open in Excel and ensure "Enable Content" is selected for Power Pivot.
+* **3** Use the slicer panel on the bottom left to filter the entire dashboard.
