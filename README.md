@@ -1,6 +1,6 @@
 # E-Commerce Sales Performance Dashboard
 
-## Project Overview
+## Project Overview 
 This project is a dynamic sales analysis platform built to track ₹340M in revenue. It transforms raw data into actionable insights, allowing stakeholders to monitor KPIs, regional sales distribution, and category performance through an interactive interface.
 
 ## Dashboard Preview
